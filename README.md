@@ -7,8 +7,9 @@ The technologies I used in this project is React, Javascript and CSS.
 
 Below are the links to the deployed application and this repository. Screenshots are shown in the Usage Section.
 
-Deployed application: https://hiusumjaimeyue.github.io/React-Portfolio/               
-GitHub repository: https://github.com/HiuSumJaimeYue/React-Portfolio            
+Deployed application: https://hiusumjaimeyue.github.io/React-Portfolio-2/               
+Original GitHub repository(where all the files are from and commit history): https://github.com/HiuSumJaimeYue/React-Portfolio       
+This GitHub repository that successfully generated the deployed application: https://github.com/HiuSumJaimeYue/React-Portfolio-2                       
 
 ## Table of Contents               
 -[Installation](#installation)          
