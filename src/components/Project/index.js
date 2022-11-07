@@ -21,8 +21,8 @@ function Project() {
             deployedApplication: "https://hiusumjaimeyue.github.io/Work-Day-Scheduler/", imageName: "workDaySchedulerPreview"
         },
         {
-            name: 'NoteTaker', gitHubLink: "https://github.com/HiuSumJaimeYue/Note-Taker",
-            deployedApplication: "https://note-taker-hiusumjaimeyue.herokuapp.com/", imageName: "noteTakerPreview"
+            name: 'Vacation Memeories', gitHubLink: "https://github.com/RyanOfEastview/group4-finale",
+            deployedApplication: "https://vacation-memories-group4.herokuapp.com/", imageName: "VacationMemPreview"
         },
         {
             name: 'Tech Blog', gitHubLink: "https://github.com/HiuSumJaimeYue/Tech-Blog",
