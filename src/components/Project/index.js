@@ -29,7 +29,6 @@ function Project() {
             deployedApplication: "https://new-tech-blog-hiusumjaimeyue.herokuapp.com/",
             imageName: "TechBlogPreview"
         }
-
     ]
     return (
 
